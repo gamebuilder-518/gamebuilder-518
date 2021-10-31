@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @jordanedwardjosephblake -- OR Jordan Blake for short.
+- 👋 Hi, I’m @jordanedwardjosephblake -- Jordan Blake.
 - Located in Johnstown, New York.
 - 👀 I’m interested in technology, travel, and the great outdoors ...
-- 🌱 I’m currently learning angular-js and ember.
+- 🌱 I’m currently learning angular-js.
 - 💞️ I’m looking to (fund) + develop 2 projects consisting of 4+ repositories...
 - Looking for 2d and 3d graphics.
-- I know about natural language, the C Language, Javascript, and Python.
