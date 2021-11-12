@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jordanedwardjosephblake -- Jordan Blake.
+- 👋 Hi, I’m Jordan.
 - Located in Johnstown, New York.
 - 👀 I’m interested in technology, travel, and the great outdoors ...
 - 🌱 I’m currently learning angular-js.
